@@ -153,8 +153,6 @@ nav.navbar.navbar-default{
 .social .fa-youtube-play:hover { /* round youtube play button icon*/
     background: #DF192A;
 }
-
-<!-- Media Querys -->
 @media screen and (max-width: 768px) {
   div.jumbotron {
     width: 100%;
